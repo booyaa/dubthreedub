@@ -1,0 +1,12 @@
+[package]
+name = "dubthreedub"
+version = "0.1.0"
+authors = ["Mark Sta Ana <booyaabooyaabooyaa@gmail.com>"]
+description = "what3words API library written in Rust"
+repository = "https://github.com/booyaa/dubthreedub"
+readme = "README.md"
+keywords = ["w3w","geocoding"]
+license = "Apache-2.0"
+
+
+[dependencies]
