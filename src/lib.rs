@@ -8,11 +8,9 @@
 //!
 //! # Usage
 //!
-//! to be completed
-//!
 //! ```toml
 //! [dependencies]
-//! dubthreedub = "0.1.*"
+//! dubthreedub = "0.1"
 //! ```
 //!
 //! and this to your crate root:
